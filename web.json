@@ -1,11 +1,13 @@
 {
   "$jason": {
     "head": {
-      "title": "Results"
-      },
-      "body": {
+      
+    },
+    "body": {
+      "background": {
         "type": "html",
-        "url": "http:resultsbase.net"
+        "url": "https://resultsbase.net"
       }
     }
+  }
 }
